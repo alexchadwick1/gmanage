@@ -1,0 +1,3 @@
+<gmessage>3.7.11 Now Here!\nwww.facebook.com/gmanage3\nGmanage3.zip: https://goo.gl/von97n</gmessage>
+<gversion>3.7.11</gversion>
+<gupdate>https://www.dropbox.com/s/5umy4dz5eydcurb/gmanage3_3.7.11_all.deb?dl=0</gupdate>
